@@ -1,1 +1,6 @@
+
 fastapi[all]
+pydantic
+joblib
+fastapi
+scikit-learn
